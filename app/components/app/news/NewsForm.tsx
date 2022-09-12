@@ -5,7 +5,7 @@ import { Div } from "../../base/atoms/Div";
 import { Paragraph } from "../../base/atoms/Paragraph";
 import moment from "moment";
 import { Heading } from "../../base/atoms/Heading";
-import DefaultImage from "../../../../assets/images/foodDefault.png";
+import DefaultImage from "../../../../assets/images/newsDefault.png";
 import BaseImage from "../../base/atoms/BaseImage";
 import { deviceDimensions } from "../../../constants/Layout";
 

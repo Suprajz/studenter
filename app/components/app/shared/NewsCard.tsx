@@ -4,7 +4,7 @@ import moment from "moment-timezone";
 import { Div } from "../../base/atoms/Div";
 import { Paragraph } from "../../base/atoms/Paragraph";
 import BaseImage from "../../base/atoms/BaseImage";
-import DefaultImage from "../../../../assets/images/foodDefault.png";
+import DefaultImage from "../../../../assets/images/newsDefault.png";
 import Button from "../../base/atoms/Button";
 import navigationHelper from "../../../navigation/NavigationHelper";
 import { INewsApi } from "../../../models";

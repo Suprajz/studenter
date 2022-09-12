@@ -15,7 +15,8 @@
     "npm": "8.x"
   },
   "scripts": {
-    "start": "expo start"
+    "start": "expo start",
+    "start:staging": "set export APP_ENV=$npm_package_config_releaseChannels_staging && expo start"
   },
   "jest": {
     "preset": "jest-expo"
